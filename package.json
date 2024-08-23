@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.quicktagcollision",                              
+  "displayName": "Quick Tag Collision",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool to create quickly some collision event from object with tag mono on it.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiTeaching/2024_08_23_WOWNCG_QuickScriptTagCollision.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
